@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.item{
+    flex: 1 0 calc(33.33% - 20px);
+}
